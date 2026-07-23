@@ -47,23 +47,7 @@ I am a Software Engineering student specializing in **Backend Development** with
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
----
 
-## 📌 Featured Projects
-
-| Project | Tech Stack | Highlights | Links |
-| :--- | :--- | :--- | :---: |
-| **Tickify** <br><sub>*Event Ticketing Platform*</sub> | `ASP.NET Core Web API` <br>`React` `SQL Server` <br>`SignalR` `EF Core` | • Role-based access control with JWT authentication.<br>• QR-code e-ticketing & real-time notification engine.<br>• High-performance API design with pagination & i18n. | [Demo](https://tickify-six.vercel.app) <br> [GitHub](https://github.com/daitb/Tickyfy.git) |
-| **Innovation Lab Management** <br><sub>*FPT University Contract Project*</sub> | `C#` `Razor Pages` <br>`Firebase Auth/Storage` <br>`Cloudflare` | • Full-stack admin platform with RBAC & session management.<br>• Scalable Web APIs for researchers, labs, & news management.<br>• Optimized backend operations and media delivery. | [Demo](https://innovationlab.runasp.net/) |
-
----
-
-## 📈 GitHub Metrics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=NeikEl04&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="NeikEl04's GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-languages/?username=NeikEl04&layout=compact&theme=tokyonight&hide=html,css" alt="Top Languages" />
-</div>
 
 ---
 
