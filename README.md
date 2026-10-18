@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:8B5CF6&height=220&section=header&text=L%C3%AA%20T%E1%BA%A5t%20Ki%C3%AAn&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20Backend-oriented%20Software%20Engineer%20%7C%20.NET%20Developer%20%E2%9A%A1&descSize=18&descAlignY=60" width="100%" alt="Header Banner" />
 </div>
 
-<!-- ==================== ANIMATED TYPING BIO ==================== -->
+<!-- ==================== BRIGHT ANIMATED TYPING BIO ==================== -->
 <div align="center">
   <a href="https://github.com/NeikEl04">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=720&lines=Backend-oriented+Software+Engineer;Specializing+in+.NET+%26+ASP.NET+Core+Web+APIs;Clean+Architecture+%26+High-Concurrency+Systems;Ex-Software+Developer+Intern+%40+FPT+Software;Database+Optimization+%26+Distributed+Caching;Crafting+Resilient+Systems+from+Da+Nang%2C+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Backend-oriented+Software+Engineer;Specializing+in+.NET+%26+ASP.NET+Core+Web+APIs;Clean+Architecture+%26+High-Concurrency+Systems;Ex-Software+Developer+Intern+%40+FPT+Software;Database+Optimization+%26+Distributed+Caching;Crafting+Resilient+Systems+from+Da+Nang%2C+Vietnam+%F0%9F%87%BB%F0%9F%87%B3" alt="Typing SVG" />
   </a>
 </div>
 
@@ -33,24 +33,18 @@
 
 ---
 
-### 💻 System Information & Developer Profile
+### 🚀 About Me
 
-```yaml
-╭──────────────────────────────────────────────────────────────────────────╮
-│ neikel04@backend-server:~$ neofetch --engineer-profile                   │
-├──────────────────────────────────────────────────────────────────────────┤
-│ User:          Lê Tất Kiên (NeikEl04)                                    │
-│ Role:          Backend-oriented Software Engineer                        │
-│ Core Stack:    C# 13 / .NET 10 LTS / ASP.NET Core Web API                │
-│ Architecture:  Clean Architecture, CQRS (MediatR), Domain-Driven Design  │
-│ University:    FPT University Da Nang (Software Engineering '26)         │
-│ Experience:    Ex-Software Developer Intern @ FPT Software               │
-│ Primary DB:    SQL Server, PostgreSQL, Redis Distributed Cache           │
-│ Current Focus: Microservices, Distributed Systems & Low-latency APIs     │
-├──────────────────────────────────────────────────────────────────────────┤
-│ ⚡ API Throughput & Concurrency:       [██████████] 98%                   │
-│ 🏛️ Clean Architecture & SOLID:         [██████████] 96%                   │
-│ 🗄️ Query Optimization & Indexing:     [█████████░] 92%                   │
-│ 🛡️ Resilience & Fault Tolerance:       [█████████░] 90%                   │
-│ ☕ Coffee to Production Code Ratio:     [██████████] 100%                  │
-╰──────────────────────────────────────────────────────────────────────────╯
+```csharp
+// Developer Profile
+var engineer = new BackendDeveloper
+{
+    Name            = "Lê Tất Kiên",
+    Location        = "Da Nang, Vietnam",
+    Education       = "Software Engineering @ FPT University Da Nang (Class of 2026)",
+    Experience      = "Former Software Developer Intern @ FPT Software",
+    Specialization  = "Backend Architecture & .NET Ecosystem",
+    CoreStack       = [ "C# 13", ".NET 10", "ASP.NET Core", "EF Core", "SQL Server", "PostgreSQL", "Redis" ],
+    Architecture    = "Clean Architecture • CQRS • Domain-Driven Design • Microservices",
+    CurrentFocus    = "Building scalable, resilient and low-latency distributed systems"
+};
