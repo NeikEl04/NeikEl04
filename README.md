@@ -22,14 +22,21 @@
 I am a Software Engineering student at **FPT University Da Nang** (Expected Graduation: 2026), specializing in **Backend Development** with a core focus on the **.NET ecosystem**. Experienced in architecting secure RESTful Web APIs, designing relational database schemas, and applying architectural patterns for maintainable, high-load systems.
 
 - 💼 **Professional Experience:** Former Software Developer Intern at **FPT Software**.
-- 🔭 **Core Focus:** Clean Architecture, CQRS (MediatR), Microservices, and high-performance ASP.NET Core APIs.
+- 🔭 **Core Focus:** Clean Architecture, CQRS (MediatR), Microservices, and low-latency ASP.NET Core APIs.
 - ⚙️ **Engineering Standards:** Dedicated to writing clean, testable, and scalable code with strong adherence to SOLID principles and database optimization techniques.
 
 ---
 
 ## 🛠️ Technical Skills
 
-- **Backend & Frameworks:** C#, .NET Core / .NET 8–10, ASP.NET Core Web API, Entity Framework Core, SignalR, MediatR.
+<!-- Animated Scrolling Tech Stack Marquee -->
+<div align="center">
+  <img src="https://icon-marquee.giann.dev/v1/marquee?i=csharp,dotnet,postgres,redis,docker,supabase,firebase,react,ts,tailwind,git,postman,cloudflare&width=700" alt="Tech Stack Marquee" />
+</div>
+
+<br/>
+
+- **Backend & Core:** C#, .NET Core / .NET 8–10, ASP.NET Core Web API, Entity Framework Core, SignalR, MediatR.
 - **Databases & Caching:** Microsoft SQL Server, PostgreSQL, Redis Distributed Cache, Supabase, Firebase.
 - **Architectural Patterns:** Clean Architecture, CQRS, Repository Pattern, RESTful API Design, SOLID Principles.
 - **DevOps & Tooling:** Docker, Cloudflare R2 / CDN, Git, GitHub Actions, Postman, Swagger / OpenAPI.
