@@ -1,6 +1,6 @@
-<!-- ==================== DYNAMIC 3D WAVE HEADER ==================== -->
+<!-- ==================== ANIMATED BADMINTON RALLY HEADER ==================== -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:8B5CF6&height=220&section=header&text=L%C3%AA%20T%E1%BA%A5t%20Ki%C3%AAn&fontSize=42&fontColor=ffffff&fontAlignY=36&desc=%E2%9A%A1%20Backend-oriented%20Software%20Engineer%20%7C%20.NET%20Developer%20%E2%9A%A1&descSize=18&descAlignY=60" width="100%" alt="Header Banner" />
+  <img src="./badminton-banner.svg" width="100%" alt="Badminton Rally Banner" />
 </div>
 
 <!-- ==================== BRIGHT ANIMATED TYPING BIO ==================== -->
@@ -46,24 +46,24 @@ I am a Software Engineering student at **FPT University Da Nang** specializing i
 
 ### 🏛️ Engineering Philosophy & Core Focus
 
-- 🏛️ **Clean Architecture & CQRS:** Phân tách tầng Domain, Application, Infrastructure độc lập; áp dụng MediatR & FluentValidation giúp code dễ bảo trì và kiểm thử.
-- ⚡ **High-Performance & Low Latency:** Tối ưu luồng bất đồng bộ (async/await), giảm thiểu memory allocation, tích hợp bộ đệm phân tán **Redis** phản hồi dưới mili-giây.
-- 🗄️ **Database Engineering:** Lược đồ quan hệ chuẩn hóa, phân tích Execution Plan, đánh Index chiến lược trên **SQL Server & PostgreSQL**.
-- 📡 **Real-time & Background Tasks:** Truyền tải sự kiện thời gian thực qua **SignalR WebSockets**, điều phối tác vụ ngầm với Hosted Services.
-- 🛡️ **Security & Identity:** JWT với refresh token rotation, Google OAuth SSO, phân quyền RBAC và cơ chế chống tấn công brute-force.
+- 🏛️ **Clean Architecture & CQRS:** Decoupling Domain, Application, and Infrastructure layers; implementing MediatR & FluentValidation for high testability and maintainability.
+- ⚡ **High-Performance & Low Latency:** Optimizing asynchronous execution (async/await), minimizing memory allocations, and leveraging **Redis** distributed caching for sub-millisecond responses.
+- 🗄️ **Database Engineering:** Designing normalized relational schemas, analyzing Query Execution Plans, and applying strategic indexing across **SQL Server & PostgreSQL**.
+- 📡 **Real-Time & Background Processing:** Delivering instant events via **SignalR WebSockets**, coordinating decoupled background tasks with Hosted Services.
+- 🛡️ **Security & Identity:** Implementing JWT with refresh token rotation, Google OAuth SSO, role-based access control (RBAC), and brute-force protection.
 
 ---
 
 ### 🛠️ Tech Stack & Tooling
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,sqlserver,redis,docker,supabase,firebase,react,ts,tailwind,git,postman,cloudflare&theme=dark" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,docker,supabase,firebase,react,ts,tailwind,git,postman,cloudflare&theme=dark" alt="Tech Stack Icons" />
 </div>
 
 <br/>
 
 <details open>
-  <summary><b>🚀 Chi tiết phân loại công nghệ (Click để đóng/mở)</b></summary>
+  <summary><b>🚀 Detailed Stack Breakdown (Click to expand/collapse)</b></summary>
   <br/>
 
   - **Backend & Core:** C#, .NET 9/10, ASP.NET Core Web API, Entity Framework Core, SignalR, MediatR, FluentValidation.
@@ -100,9 +100,6 @@ I am a Software Engineering student at **FPT University Da Nang** specializing i
 
 ---
 
-<!-- ==================== DYNAMIC 3D WAVE FOOTER ==================== -->
 <div align="center">
-  <sub>⚡ <i>"Simplicity is prerequisite for reliability. Build clean, scale fast, and never compromise on architecture."</i></sub>
-  <br/>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,50:6366F1,100:8B5CF6&height=90&section=footer" width="100%" alt="Footer Banner" />
+  <sub>🏸 <i>"Stay light on your feet, anticipate the next play, and smash every bug right down the line."</i></sub>
 </div>
