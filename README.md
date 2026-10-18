@@ -23,24 +23,25 @@ I am a Software Engineering student at **FPT University Da Nang** (Expected Grad
 
 - 💼 **Professional Experience:** Former Software Developer Intern at **FPT Software**.
 - 🔭 **Core Focus:** Clean Architecture, CQRS (MediatR), Microservices, and low-latency ASP.NET Core APIs.
-- ⚙️ **Engineering Standards:** Dedicated to writing clean, testable, and scalable code with strong adherence to SOLID principles and database optimization techniques.
+- ⚙️ **Engineering Standards:** Dedicated to writing clean, testable, and scalable code with strong adherence to SOLID principles, automated unit testing, and database optimization techniques.
 
 ---
 
 ## 🛠️ Technical Skills
 
-<!-- Animated Scrolling Tech Stack Marquee -->
+<!-- Perfectly balanced 2-row grid (7 icons per row) - No horizontal clipping -->
 <div align="center">
-  <img src="https://icon-marquee.giann.dev/v1/marquee?i=csharp,dotnet,postgres,redis,docker,supabase,firebase,react,ts,tailwind,git,postman,cloudflare&width=700" alt="Tech Stack Marquee" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,postgres,redis,docker,supabase,firebase,react,ts,tailwind,git,postman,cloudflare,githubactions&perline=7&theme=dark" alt="Technical Skills" />
 </div>
 
 <br/>
 
-- **Backend & Core:** C#, .NET Core / .NET 8–10, ASP.NET Core Web API, Entity Framework Core, SignalR, MediatR.
+- **Backend & Core:** C#, .NET 8–10, ASP.NET Core Web API, Entity Framework Core, MediatR (CQRS), SignalR, FluentValidation.
 - **Databases & Caching:** Microsoft SQL Server, PostgreSQL, Redis Distributed Cache, Supabase, Firebase.
-- **Architectural Patterns:** Clean Architecture, CQRS, Repository Pattern, RESTful API Design, SOLID Principles.
-- **DevOps & Tooling:** Docker, Cloudflare R2 / CDN, Git, GitHub Actions, Postman, Swagger / OpenAPI.
-- **Frontend Supporting:** React, TypeScript, Tailwind CSS.
+- **Architecture & Design:** Clean Architecture, Domain-Driven Design (DDD), CQRS, Repository Pattern, RESTful API Design, SOLID Principles.
+- **Testing & Code Quality:** Unit Testing with xUnit, Moq, MockQueryable.
+- **DevOps, Cloud & Tooling:** Docker, Cloudflare R2 / CDN, GitHub Actions (CI/CD), Git, Postman, Swagger / OpenAPI.
+- **Frontend Supporting:** React 19, TypeScript, Tailwind CSS, TanStack Query.
 
 ---
 
